@@ -1,3 +1,4 @@
+IMPORTANT NOTE: Keep web page size to 75%.
 # NGO-project
 Steps to open project
 1. VS code or any feasible tool
